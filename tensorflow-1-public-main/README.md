@@ -1,18 +1,8 @@
 # DeepLearning.AI TensorFlow Developer
 
-Welcome to the public repo for this course.
-
 Below is the list of assignments and ungraded labs course-wise.
 
-
-### Want to contribute?
-
-At the time we are not accepting Pull Requests but if you have any suggestion or spot any typo please raise an issue. 
-
-If you find a bug that is blocking in any way consider joining our [community](https://community.deeplearning.ai/) where our mentors and team will help you. You can also find more information on our community in this Reading Item within
-[Coursera](https://www.coursera.org/learn/introduction-tensorflow/ungradedLti/3L0GK/important-have-questions-issues-or-ideas-join-our-community).
-
------
+---
 
 ## C1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
@@ -83,7 +73,7 @@ If you find a bug that is blocking in any way consider joining our [community](h
 1. Cats vs. Dogs with Augmentation _(C2_W2_Lab_1_cats_v_dogs_augmentation.ipynb)_
 2. Horses vs. Humans with Augmentation _(C2_W2_Lab_2_horses_v_humans_augmentation.ipynb)_
 
-## Week 3 
+## Week 3
 
 ### Assignment
 
@@ -107,7 +97,7 @@ If you find a bug that is blocking in any way consider joining our [community](h
 
 ## Week 1
 
-### Assignment 
+### Assignment
 
 - Explore the BBC News Archive _(C3W1_Assignment.ipynb)_
 
@@ -119,7 +109,7 @@ If you find a bug that is blocking in any way consider joining our [community](h
 
 ## Week 2
 
-### Assignment 
+### Assignment
 
 - Categorizing the BBC News Archive _(C3W2_Assignment.ipynb)_
 
@@ -131,7 +121,7 @@ If you find a bug that is blocking in any way consider joining our [community](h
 
 ## Week 3
 
-### Assignment 
+### Assignment
 
 - Exploring Overfitting in NLP _(C3W3_Assignment.ipynb)_
 
@@ -170,7 +160,7 @@ If you find a bug that is blocking in any way consider joining our [community](h
 
 ## Week 2
 
-### Assignment  
+### Assignment
 
 - Predict with a DNN _(C4W2_Assignment.ipynb)_
 
