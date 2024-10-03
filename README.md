@@ -1,7 +1,6 @@
 # DeepLearning.AI-TensorFlow-Developer-Professional-Certificate
 
 
-Below is the list of assignments and ungraded labs course-wise.
 
 ---
 
@@ -50,6 +49,11 @@ Below is the list of assignments and ungraded labs course-wise.
 1. Preprocessing Images to Train a Neural Network _(C1_W4_Lab_1_image_data_preprocessing_no_validation.ipynb)_
 2. Image Data Preprocessing with a Validation Set _(C1_W4_Lab_2_image_data_preprocessing_with_validation.ipynb)_
 3. Compacted Images _(C1_W4_Lab_3_compacted_images.ipynb)_
+
+<iframe src="Course_01_Introduction%20to%20TF%20for%20AI%2C%20ML%2C%20and%20DL/C1_certificate.pdf" width="600" height="400"></iframe>
+
+
+
 
 ## C2 - Convolutional Neural Networks in TensorFlow
 
