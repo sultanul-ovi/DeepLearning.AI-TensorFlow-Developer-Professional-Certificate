@@ -1,7 +1,5 @@
 # DeepLearning.AI-TensorFlow-Developer-Professional-Certificate
 
-
-
 ---
 
 ## C1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
@@ -49,11 +47,6 @@
 1. Preprocessing Images to Train a Neural Network _(C1_W4_Lab_1_image_data_preprocessing_no_validation.ipynb)_
 2. Image Data Preprocessing with a Validation Set _(C1_W4_Lab_2_image_data_preprocessing_with_validation.ipynb)_
 3. Compacted Images _(C1_W4_Lab_3_compacted_images.ipynb)_
-
-<iframe src="Course_01_Introduction%20to%20TF%20for%20AI%2C%20ML%2C%20and%20DL/C1_certificate.pdf" width="600" height="400"></iframe>
-
-
-
 
 ## C2 - Convolutional Neural Networks in TensorFlow
 
