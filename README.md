@@ -4,6 +4,9 @@
 
 ## C1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
+
+![Certificate](C1_Certificate_Ovi.jpg)
+
 ## Week 1
 
 ### Assignment
@@ -50,6 +53,8 @@
 
 ## C2 - Convolutional Neural Networks in TensorFlow
 
+![Certificate](C2_Certificate_Ovi.jpg)
+
 ## Week 1
 
 ### Assignment
@@ -92,6 +97,8 @@
 1. Classifying Rock, Paper, and Scissors _(C2_W4_Lab_1_multi_class_classifier.ipynb)_
 
 ## C3 - Natural Language Processing in TensorFlow
+
+![Certificate](C3_Certificate_Ovi.jpg)
 
 ## Week 1
 
