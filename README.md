@@ -5,7 +5,7 @@
 ## C1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
 
-![Certificate](Course_01_Introduction_to_TF_for_AI,_ML_and_DL\C1_Certificate_Ovi.jpg)
+![Certificate](Course_01_Introduction_to_TF_for_AI,_ML_and_DL/C1_Certificate_Ovi.jpg)
 
 ## Week 1
 
@@ -53,7 +53,8 @@
 
 ## C2 - Convolutional Neural Networks in TensorFlow
 
-![Certificate](Course_02_CNN_in_TF\C2_Certificate_Ovi.jpg)
+![Certificate](Course_02_CNN_in_TF/C2_Certificate_Ovi.jpg)
+
 
 ## Week 1
 
@@ -98,7 +99,7 @@
 
 ## C3 - Natural Language Processing in TensorFlow
 
-![Certificate](Course_03_NLP_in_TF\C3_Certificate_Ovi.jpg)
+![Certificate](Course_03_NLP_in_TF/C3_Certificate_Ovi.jpg)
 
 ## Week 1
 
