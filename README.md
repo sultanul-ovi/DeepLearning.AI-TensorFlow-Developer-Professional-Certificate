@@ -1,6 +1,8 @@
 # DeepLearning.AI-TensorFlow-Developer-Professional-Certificate
 
 ---
+![Certificate](DeepLearningAI-TensorFlow-Developer-Professional-Certificate_Ovi.jpg)
+---
 
 ## C1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
@@ -152,6 +154,8 @@
 2. Generating Poetry from Irish Lyrics _(C3_W4_Lab_2_irish_lyrics.ipynb)_
 
 ## C4 - Sequences, Time Series and Prediction
+
+![Certificate](Course_04_Seq_Time_Series_and_Prediction/C4_Certificate_Ovi.jpg)
 
 ## Week 1
 
