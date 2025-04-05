@@ -1,4 +1,4 @@
-# DeepLearning.AI-TensorFlow-Developer-Professional-Certificate
+![Certificate](tf.png)
 
 ---
 ![Certificate](DeepLearningAI-TensorFlow-Developer-Professional-Certificate_Ovi.jpg)
